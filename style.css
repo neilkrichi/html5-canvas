@@ -1,0 +1,25 @@
+canvas {
+  border: 0.1px solid rgba(240, 240, 240, 0.5);
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-weight: 550;
+  text-align: center;
+}
+
+h2  {
+  margin: 20px auto;
+
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  border: 2px solid #ababab;
+  border-radius: 4px;
+  font-size: 1em;
+  outline: none;
+  cursor: pointer;
+  font-family: Helvetica;
+}
