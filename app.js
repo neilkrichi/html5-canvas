@@ -41,6 +41,10 @@ function clearCanvas() {
   ctx.clearRect(0,0,canvas.width, canvas.height);
 };
 
+// add undo function
+
+
+
 canvas.addEventListener('mousemove', draw);
 canvas.addEventListener('mousedown', (e) => {
     isDrawing = true;
